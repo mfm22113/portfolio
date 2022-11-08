@@ -5,7 +5,7 @@ NAME:Taichi Miyamoto
 
 BIRTHDAY:January 18th, 2000
 
-school:Graduate school of Fukuoka Institute of Technology
+SCHOOL:Graduate school of Fukuoka Institute of Technology
 
 # Skills
 Information Technology Passport
@@ -24,11 +24,12 @@ The Official Business Skill Test in Bookkeeping 3rd Grade, Japanese Chamber of C
 
 Some files are attached.
 
+## Blender creations
+There are pictures of my blender creations. Those character models are from an anime "Heybot!". I can't upload those models because of the copyright, sorry about that.
+
 ## C++ programming
 There is a program trying to solve floyd problem by GA (Genetic Algorithm). You can run it from .sln file or .vcxproj file.
 
 ## Unity game (WIP)
 There are some pictures of my unity game. The game is first person action game, gives you thrill to dodge enemy's attacks.
 
-## Blender creations
-There are pictures of my blender creations. Those character models are from an anime "Heybot!". I can't upload those models because of the copyright, sorry about that.

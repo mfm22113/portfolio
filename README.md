@@ -30,6 +30,4 @@ There are pictures of my blender creations. Those character models are from an a
 ## C++ programming
 There is a program trying to solve floyd problem by GA (Genetic Algorithm). You can run it from .sln file or .vcxproj file.
 
-## Unity game (WIP)
-There are just some pictures and .cs files of my unity game. The game is first person action game, will give you thrill to dodge enemy's attacks in close range. You can't run or even walk, you can just dodge in 8 directions. Currently it is WIP and I need more time to finish it.
 
